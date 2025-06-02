@@ -1,1 +1,95 @@
-{"type":"header","name":"Header group","sections":{"announcement-bar":{"type":"announcement-bar","blocks":{"message-1":{"type":"message","settings":{"text":"KOSTENLOSER VERSAND","learn_more_text":"","title":"","content":"","button_text":"","button_link":""}},"0bc71914-64c8-4f2f-b6e0-a3b9f95f48fa":{"type":"message","settings":{"text":"ERHALTE HEUTE 50% RABATT! 💥","learn_more_text":"Learn more","title":"","content":"","button_text":"","button_link":""}},"545aeeaa-3c98-4b79-8c88-aa603796c308":{"type":"message","settings":{"text":"✨ NR. 1 SMARTWATCHES ✨","learn_more_text":"Learn more","title":"","content":"","button_text":"","button_link":""}}},"block_order":["message-1","0bc71914-64c8-4f2f-b6e0-a3b9f95f48fa","545aeeaa-3c98-4b79-8c88-aa603796c308"],"disabled":true,"settings":{"announcement_bar_position":"non_sticky","announcement_text_size":"large","autoplay":true,"cycle_speed":4,"background":"#1e1e1e","text_color":"#ffffff","button_background":"#ffffff","button_text_color":"#ffffff"}},"header":{"type":"header","custom_css":["a.header__icon-wrapper.tap-area.hidden-desk[href=\"\/search\"] {display: none !important;}","a[href=\"\/search\"] {display: none !important;}"],"settings":{"enable_sticky_header":true,"logo":"shopify:\/\/shop_images\/Zamoir-yellow-Without-tagline_cf2f9ef0-f008-4863-a04b-bb87d7d7d18f.svg","logo_max_width":200,"mobile_logo_max_width":115,"navigation_menu":"main-menu","sidebar_navigation_menu":"","header_layout":"logo_center_navigation_inline","show_icons":false,"reduce_desktop_padding":false,"show_locale_selector":false,"show_country_selector":false,"enable_transparent_header":false,"transparent_header_text_color":"#1a1a1a","search_menu":""}}},"order":["announcement-bar","header"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "type": "header",
+  "name": "Header group",
+  "sections": {
+    "announcement-bar": {
+      "type": "announcement-bar",
+      "blocks": {
+        "message-1": {
+          "type": "message",
+          "settings": {
+            "text": "KOSTENLOSER VERSAND",
+            "learn_more_text": "",
+            "title": "",
+            "content": "",
+            "button_text": "",
+            "button_link": ""
+          }
+        },
+        "0bc71914-64c8-4f2f-b6e0-a3b9f95f48fa": {
+          "type": "message",
+          "settings": {
+            "text": "ERHALTE HEUTE 50% RABATT! 💥",
+            "learn_more_text": "Learn more",
+            "title": "",
+            "content": "",
+            "button_text": "",
+            "button_link": ""
+          }
+        },
+        "545aeeaa-3c98-4b79-8c88-aa603796c308": {
+          "type": "message",
+          "settings": {
+            "text": "✨ NR. 1 SMARTWATCHES ✨",
+            "learn_more_text": "Learn more",
+            "title": "",
+            "content": "",
+            "button_text": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "message-1",
+        "0bc71914-64c8-4f2f-b6e0-a3b9f95f48fa",
+        "545aeeaa-3c98-4b79-8c88-aa603796c308"
+      ],
+      "settings": {
+        "announcement_bar_position": "non_sticky",
+        "announcement_text_size": "large",
+        "autoplay": true,
+        "cycle_speed": 4,
+        "background": "#1e1e1e",
+        "text_color": "#ffffff",
+        "button_background": "#ffffff",
+        "button_text_color": "#ffffff"
+      }
+    },
+    "header": {
+      "type": "header",
+      "custom_css": [
+        "a.header__icon-wrapper.tap-area.hidden-desk[href=\"/search\"] {display: none !important;}",
+        "a[href=\"/search\"] {display: none !important;}"
+      ],
+      "settings": {
+        "enable_sticky_header": true,
+        "logo": "shopify://shop_images/Asset_18.png",
+        "logo_max_width": 120,
+        "mobile_logo_max_width": 115,
+        "navigation_menu": "main-menu",
+        "sidebar_navigation_menu": "",
+        "header_layout": "logo_center_navigation_inline",
+        "show_icons": false,
+        "reduce_desktop_padding": true,
+        "show_locale_selector": false,
+        "show_country_selector": false,
+        "enable_transparent_header": false,
+        "transparent_header_text_color": "#1a1a1a",
+        "search_menu": ""
+      }
+    }
+  },
+  "order": [
+    "announcement-bar",
+    "header"
+  ]
+}
