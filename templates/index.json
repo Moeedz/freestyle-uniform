@@ -42,28 +42,10 @@
             "overlay_color": "#000000",
             "overlay_opacity": 30
           }
-        },
-        "image_H7AXiL": {
-          "type": "image",
-          "settings": {
-            "text_position": "middle_center",
-            "subheading": "Tell your story",
-            "title": "Slide 2",
-            "button_1_text": "",
-            "button_1_link": "",
-            "button_2_text": "",
-            "button_2_link": "",
-            "text_color": "#ffffff",
-            "button_background": "#ffffff",
-            "button_text_color": "#000000",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
         }
       },
       "block_order": [
-        "image_T9EWEm",
-        "image_H7AXiL"
+        "image_T9EWEm"
       ],
       "name": "Slideshow",
       "settings": {
