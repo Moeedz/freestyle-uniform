@@ -430,11 +430,11 @@
         "item_AUNLKr": {
           "type": "item",
           "settings": {
-            "tab_label": "Item",
-            "subheading": "Subheading",
+            "tab_label": "",
+            "subheading": "",
             "title": "Image with text",
             "content": "<p>Use image with text to give your customers insight into your brand. Select imagery and text that relates to your style and story.</p>",
-            "button_text": "",
+            "button_text": "Shop Now",
             "button_link": ""
           }
         }
@@ -443,7 +443,7 @@
         "item_AUNLKr"
       ],
       "custom_css": [
-        "section {background: #F5F5F5 !important; margin: 0;}"
+        "section {background: #f5f5f5 !important; margin: 0;}"
       ],
       "name": "Image with text",
       "settings": {
@@ -451,12 +451,12 @@
         "background_type": "full_width",
         "background_overlap": "image",
         "image_position": "left",
-        "text_alignment": "center",
+        "text_alignment": "left",
         "cycle_speed": 8,
         "accent_background": "rgba(0,0,0,0)",
         "text_color": "rgba(0,0,0,0)",
-        "button_background": "rgba(0,0,0,0)",
-        "button_text_color": "rgba(0,0,0,0)"
+        "button_background": "#ff8900",
+        "button_text_color": "#ffffff"
       }
     }
   },
