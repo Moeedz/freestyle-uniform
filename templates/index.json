@@ -442,7 +442,9 @@
       "block_order": [
         "item_AUNLKr"
       ],
-      "custom_css": [],
+      "custom_css": [
+        "section {background: #F5F5F5 !important; margin: 0;}"
+      ],
       "name": "Image with text",
       "settings": {
         "reveal_on_scroll": true,
