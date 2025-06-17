@@ -432,8 +432,8 @@
           "settings": {
             "tab_label": "",
             "subheading": "",
-            "title": "Image with text",
-            "content": "<p>Use image with text to give your customers insight into your brand. Select imagery and text that relates to your style and story.</p>",
+            "title": "Ready for Your Next Move?",
+            "content": "<p>Whatever your goals, big or small, we're here to help you get there. Explore sportswear that fits <em>your</em> needs, supports <em>your</em> activity, and gets you excited for what's next.</p>",
             "button_text": "Shop Now",
             "button_link": ""
           }
@@ -486,9 +486,9 @@
             "content_padding_horizontal": 16,
             "content_padding_vertical": 16,
             "bg_color": "#000000",
-            "heading_color": "#FFFFFF",
-            "link_color": "#FFFFFF",
-            "link_hover_color": "#FFFFFF",
+            "heading_color": "#ffffff",
+            "link_color": "#ffffff",
+            "link_hover_color": "#ffffff",
             "overlay_color": "#000000"
           }
         },
@@ -516,9 +516,9 @@
             "content_padding_horizontal": 16,
             "content_padding_vertical": 16,
             "bg_color": "#000000",
-            "heading_color": "#FFFFFF",
-            "link_color": "#FFFFFF",
-            "link_hover_color": "#FFFFFF",
+            "heading_color": "#ffffff",
+            "link_color": "#ffffff",
+            "link_hover_color": "#ffffff",
             "overlay_color": "#000000"
           }
         },
@@ -546,9 +546,9 @@
             "content_padding_horizontal": 16,
             "content_padding_vertical": 16,
             "bg_color": "#000000",
-            "heading_color": "#FFFFFF",
-            "link_color": "#FFFFFF",
-            "link_hover_color": "#FFFFFF",
+            "heading_color": "#ffffff",
+            "link_color": "#ffffff",
+            "link_hover_color": "#ffffff",
             "overlay_color": "#000000"
           }
         },
@@ -576,9 +576,9 @@
             "content_padding_horizontal": 16,
             "content_padding_vertical": 16,
             "bg_color": "#000000",
-            "heading_color": "#FFFFFF",
-            "link_color": "#FFFFFF",
-            "link_hover_color": "#FFFFFF",
+            "heading_color": "#ffffff",
+            "link_color": "#ffffff",
+            "link_hover_color": "#ffffff",
             "overlay_color": "#000000"
           }
         }
