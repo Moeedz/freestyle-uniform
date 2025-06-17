@@ -431,6 +431,7 @@
         "item_AUNLKr": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/ai2.jpg",
             "tab_label": "",
             "subheading": "",
             "title": "Ready for Your Next Move?",
