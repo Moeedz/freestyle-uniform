@@ -279,10 +279,10 @@
     "ss_media_grid_UiKHWa": {
       "type": "ss-media-grid",
       "blocks": {
-        "image_8LaT9N": {
+        "image_gmn94G": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/WhatsApp_Image_2025-06-19_at_23.21.50_c13c2e70.jpg",
+            "image": "shopify://shop_images/Category-banner-2_4be88d2f-5ce0-4776-9aff-b05eb673d329.jpg",
             "image_overlay": 0,
             "image_radius": 0,
             "heading": "",
@@ -291,7 +291,7 @@
             "heading_size": 32,
             "heading_height": 100,
             "link": "",
-            "link_url": "shopify://collections/basketball-women-girls",
+            "link_url": "shopify://collections/basketball-men-boys",
             "link_custom": false,
             "link_font": "assistant_n4",
             "link_size": 22,
@@ -310,10 +310,10 @@
             "overlay_color": "#000000"
           }
         },
-        "image_gmn94G": {
+        "image_8LaT9N": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/WhatsApp_Image_2025-06-19_at_23.44.59_2a3dedca.jpg",
+            "image": "shopify://shop_images/Category-banner.jpg",
             "image_overlay": 0,
             "image_radius": 0,
             "heading": "",
@@ -322,7 +322,7 @@
             "heading_size": 32,
             "heading_height": 100,
             "link": "",
-            "link_url": "shopify://collections/basketball-men-boys",
+            "link_url": "shopify://collections/basketball-women-girls",
             "link_custom": false,
             "link_font": "assistant_n4",
             "link_size": 22,
@@ -403,8 +403,8 @@
         }
       },
       "block_order": [
-        "image_8LaT9N",
         "image_gmn94G",
+        "image_8LaT9N",
         "image_mewJnK",
         "image_VyqBUN"
       ],
