@@ -30,6 +30,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/banner-sportswear.jpg",
+            "mobile_image": "shopify://shop_images/mobile-banner.jpg",
             "text_position": "middle_center",
             "subheading": "",
             "title": "",
