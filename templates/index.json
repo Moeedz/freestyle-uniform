@@ -344,7 +344,7 @@
         "image_mewJnK": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/WhatsApp_Image_2025-06-21_at_22.54.13_9c0478ff.jpg",
+            "image": "shopify://shop_images/Mard.jpg",
             "image_overlay": 0,
             "image_radius": 0,
             "heading": "",
@@ -375,9 +375,10 @@
         "image_VyqBUN": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Aurat.jpg",
             "image_overlay": 0,
             "image_radius": 0,
-            "heading": "Promote your products",
+            "heading": "",
             "heading_custom": false,
             "heading_font": "assistant_n4",
             "heading_size": 32,
