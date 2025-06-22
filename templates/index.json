@@ -657,9 +657,10 @@
         "image_paTxUJ": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/WhatsApp_Image_2025-06-22_at_21.20.07_6fe4a8dc.jpg",
             "image_overlay": 0,
             "image_radius": 0,
-            "heading": "Promote your products",
+            "heading": "",
             "heading_custom": false,
             "heading_font": "assistant_n4",
             "heading_size": 32,
