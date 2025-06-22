@@ -657,6 +657,7 @@
         "image_paTxUJ": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/WhatsApp_Image_2025-06-22_at_22.08.59_9dd4edf6.jpg",
             "image_overlay": 0,
             "image_radius": 0,
             "heading": "",
